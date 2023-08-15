@@ -1,5 +1,7 @@
-echo "hello"
+echo "good morning" 
 
-echo "its 17:20pm"
 
-echo "whatever"
+if [[  ]]
+then
+    echo "potatop"
+    
